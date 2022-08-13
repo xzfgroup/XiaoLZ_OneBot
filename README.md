@@ -3,3 +3,4 @@
 下载地址:http://down.xzfg.net:23456/down/xlzonebot.zip  
 备用:http://down2.xzfg.net:23456/down/xlzonebot.zip  
 OneBot 11:https://github.com/botuniverse/onebot-11  
+原帖地址:https://f.xiaolz.cn/thread-469-1-1.html
